@@ -2,16 +2,6 @@
 
 A chat application like telegram using **flutter**;
 
-## download applications
-
-for `android` you can click on the following link address:
-
-[**Android**](https://github.com/babakcode/business_flutter/releases/download/android/app.apk) 👋
-<br>
-
-for `web`, `ios` and etc. click on the following link address:
-
-[**PWA Web Application**](http://217.144.106.223:50001/) 😉
 <br>
 
 
@@ -34,10 +24,6 @@ for `web`, `ios` and etc. click on the following link address:
   <img src="zScreenshots/web 2.JPG" width="100%" /> 
 </p>
 
-
-## Developers
-Please subscribe into our [Telegram channel](https://t.me/flutter_geeks) and to conntact with the developer click this [link address.](https://t.me/babakcode)
-
 for flutter developers:
 ### Getting Started
 ```shel
@@ -46,11 +32,3 @@ cd business_flutter
 flutter pub get
 flutter run 
 ```
-
-this repo will be updated <3 .
-
-
-## Links
-
-* [Youtube channel](https://www.youtube.com/c/babakcode)
-* [Instagram](https://instagram.com/babakcode)
