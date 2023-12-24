@@ -27,7 +27,7 @@ A chat application like telegram using **flutter**;
 for flutter developers:
 ### Getting Started
 ```shel
-git clone https://github.com/babakcode/business_flutter.git
+git clone https://github.com/heorhiikanir/business_flutter.git
 cd business_flutter
 flutter pub get
 flutter run 
